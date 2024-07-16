@@ -1,0 +1,13 @@
+module:passwordmanager
+passwordmanager.app
+passwordmanager.backend
+passwordmanager.backend.encryption
+passwordmanager.backend.encryption.linux
+passwordmanager.backend.encryption.windows
+passwordmanager.backend.local.database
+passwordmanager.backend.local.livetesting
+passwordmanager.backend.remote
+passwordmanager.frontend.cache
+passwordmanager.frontend.controller
+passwordmanager.frontend.util
+passwordmanager.model
