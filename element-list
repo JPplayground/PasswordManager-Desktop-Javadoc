@@ -7,6 +7,8 @@ passwordmanager.backend.encryption.windows
 passwordmanager.backend.local.database
 passwordmanager.backend.local.livetesting
 passwordmanager.backend.remote
+passwordmanager.database
+passwordmanager.database.PreparedStatementGeneratorTests
 passwordmanager.frontend.cache
 passwordmanager.frontend.controller
 passwordmanager.frontend.util
